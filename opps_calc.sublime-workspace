@@ -1,0 +1,1201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"requi",
+				"require_once  (keyword)"
+			],
+			[
+				"return",
+				"returnVar"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"http_build",
+				"http_build_query"
+			],
+			[
+				"reu",
+				"returnArray"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"form",
+				"formText"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"lit-s",
+				"list-style"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"inlin",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/pearlboy/works/oops_calc/index.php",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/pearlboy/works/oops_calc/classes/OperatorInterface.php",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/pearlboy/works/oops_calc/classes/Calculator.php",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/pearlboy/works/oops_calc/classes/Adder.php",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "classes/Subtractor.php",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"gits",
+				"Gist: Insert Gist"
+			],
+			[
+				"gistt",
+				"Gist: Open Gist"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pearlboy/works/oops_calc"
+	],
+	"file_history":
+	[
+		"/Users/pearlboy/works/oops_calc/opps_calc.sublime-workspace",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/clubaccepts.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/clubagreement.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/club.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/css_fix.css",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/sidebar-dashboard.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/mcsubscribe.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/mcsubscribe.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/profile.php",
+		"/Users/pearlboy/Works/alliancecarcare/alliancecarcare/url.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/change-ac-information.php",
+		"/Users/pearlboy/Works/alliancecarcare/alliancecarcare/ob/mailchimp_bridge.php",
+		"/Users/pearlboy/Works/alliancecarcare/alliancecarcare/mcsubscribe.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/css/ob_styles.css",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/change-ac-pw.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/ac-pwupdater.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/ac-updater.php",
+		"/Users/pearlboy/Works/alliancecarcare/alliancecarcare/ob/ac-updater.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/logger.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/signuplogin.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/pt_processor.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/iframetest.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/ac_submenu.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/ac-activate.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/dashboard.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/page-myacc.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/header.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/address.php",
+		"/Users/pearlboy/Works/alliancecarcare/alliancecarcare/css_toggle",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/myschedules.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/myaccount.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/sesscon.php",
+		"/Users/pearlboy/works/alliancecarcare/fullcalendar-2.2.2/demos/json.html",
+		"/Users/pearlboy/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/pearlboy/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/pearlboy/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Users/pearlboy/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/usermgr.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/fc/fullcalendar.css",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/iframetest1150.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/changepassword.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-hr.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/sftp-config.json",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/pdf_contract.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/back_myaccount.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/libs_php/BarcodeFont.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/libs_php/BarcodeFont.z",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/libs_php/fpdf/font/BarcodeFont.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/vehtype_icons/_notes/dwsync.xml",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/css/ob_button.css",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/onlinebooking.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/admin/js/options-custom.js",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/modules/quiz.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/pdf_receipt.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/pricing.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/login.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/fn.core.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/404.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/classes/PHPMailerAutoload.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/classes/class.phpmailer.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/page-home.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/sidebar-left.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/address_mgr.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/js/jquery.tablesorter.js",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/owl-carousel/owl.theme.css",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/README.md",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/index.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/header.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/gen.signagree.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/gen.menu.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/gen.clubagree.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/form.vehtype.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/form.sms.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/form.services.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/form.customers.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/form.category.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/form.branches.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/fn.core.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/calender.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/bugtest.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/allevents.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/_notes/dwsync.xml",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/topcart.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/si_drupal.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/iframesi.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/iframeservices.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/iframepricing.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/exterior_table.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/sidebar-right.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/idexist.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/page-fullwidth_withRightSidebar.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/includes/post-formats/gallery.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/page-guest.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/Fonts/generator_config.txt",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/includes/aq_resizer.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/archive.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/Fonts/specimen_files/grid_12-825-55-15.css",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/breadcrumb-navxt/languages/breadcrumb-navxt-et.po",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/breadcrumb-navxt/languages/breadcrumb-navxt-et.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/includes/functions.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/breadcrumb-navxt/class.bcn_widget.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/breadcrumb-navxt/class.bcn_network_admin.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/breadcrumb-navxt/class.bcn_breadcrumb_trail.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/breadcrumb-navxt/includes/block_direct_access.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-zh_TW.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-tr_TR.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-tl.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-th.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-ta.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-et.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/admin/edit-contact-form.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/screets-chat/assets/sounds/online.mp3",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-nb_NO.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-bn_BD.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/Connections/onlinebooking.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/wp-pagenavi/lang/wp-pagenavi-nl_NL.po",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/wp-pagenavi/lang/wp-pagenavi-nl_NL.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/wp-pagenavi/lang/wp-pagenavi-nb_NO.po",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/wp-pagenavi/lang/wp-pagenavi-nb_NO.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/breadcrumb-navxt/languages/breadcrumb-navxt-nl_NL.po",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/breadcrumb-navxt/languages/breadcrumb-navxt-nl_NL.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-nl_NL.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/cms/css/checkbox_styling.css",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/plugins/contact-form-7/languages/contact-form-7-sk_SK.mo",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/Fonts/specimen_files/specimen_stylesheet.css",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/ob/userreg.php",
+		"/Users/pearlboy/works/alliancecarcare/alliancecarcare/wp-content/themes/Garage/includes/post-formats/acc_services.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"';",
+			"\n      ",
+			"span",
+			"usruid",
+			"prop",
+			"member-info",
+			"phone2",
+			"phone1",
+			"fullname",
+			"''",
+			"_GET",
+			"userDetails",
+			"formBTN",
+			"child",
+			"btnLogin",
+			"	\n",
+			"dashboard",
+			"php",
+			".myAccount",
+			"addressForm",
+			"cusAddress",
+			"}\n",
+			"h",
+			"myaccContent",
+			"id=\"cusFormWrap\"",
+			"username",
+			"btnSubmit",
+			"30",
+			"8",
+			"10",
+			"color",
+			"background",
+			"Public",
+			" ▸ "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/pearlboy/works/oops_calc/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/pearlboy/works/oops_calc/classes/OperatorInterface.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/pearlboy/works/oops_calc/classes/Calculator.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/pearlboy/works/oops_calc/classes/Adder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "classes/Subtractor.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 364.0
+	},
+	"project": "opps_calc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"change",
+				"ob/changepassword.php"
+			],
+			[
+				"profile",
+				"ob/profile.php"
+			],
+			[
+				"id",
+				"ob/idexist.php"
+			],
+			[
+				"gargh",
+				"wp-content/themes/Garage/sidebar-right.php"
+			],
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Works/iptv/iptv/iptv-subproj.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
